@@ -1,5 +1,5 @@
 [EN](README.md) / [CN](README_CN.md)
-## mini-vue
+## mini-vue 2021
 
 Implement the simplest vue3 model for in-depth study of vue3 source code
 
